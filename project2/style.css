@@ -38,8 +38,9 @@ a {
 
 .article {
 
-line-height: 25px;
+line-height: 28px;
 margin-right: 35%;
+font-size: 18px;
 
 }
 
@@ -105,10 +106,14 @@ margin-right: 30%;
 }
 
 @media only screen and (max-width: 600px) {
+   body{
+   	margin:none;
+   }
+
    .header {
 
 	font-weight: bold;
-	font-size:20px;
+	font-size:35px;
 	line-height: 1.25em;
 	color:#0F6B2E;
 	margin-right:15px;
@@ -122,14 +127,19 @@ li {
 	list-style-type: none;
 	text-decoration: none;
 	line-height: 1em;
-	font-size: 40px;
+	font-size: 25px;
 }
 
 
 .article {
 
-line-height: 25px;
+line-height: 35px;
 margin-right: 0%;
+font-size: 25px;
 
+}
+
+footer {
+	font-size:25px;
 }
 }
