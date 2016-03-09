@@ -4,7 +4,7 @@
 	font-size:40px;
 	line-height: 1.25em;
 	color:#0F6B2E;
-	margin-right:40%;
+	margin-right:25%;
 	letter-spacing: 1.5px;
 
 }
@@ -26,7 +26,7 @@ li {
 	margin-left: .5em;
 	list-style-type: none;
 	text-decoration: none;
-	line-height: 2em;
+	line-height: 1em;
 	font-size: 60px;
 	letter-spacing: 1.5px;
 }
@@ -80,6 +80,7 @@ color: gray;
 	font-size:35px;
 	line-height: 1.25em;
 	color:#0F6B2E;
+	margin-right:5%;
 }
 
 img {
@@ -116,12 +117,12 @@ margin-right: 30%;
 
 li {
 
-	margin-left: .1em;
 	margin-right:0px;
+	margin-left: -45px;
 	list-style-type: none;
 	text-decoration: none;
-	line-height: 2em;
-	font-size: 25px;
+	line-height: 1em;
+	font-size: 40px;
 }
 
 
