@@ -94,8 +94,7 @@ li {
 	margin-left: .1em;
 	list-style-type: none;
 	text-decoration: none;
-	line-height: 2em;
-	font-size: 55px;
+	font-size: 50px;
 }
 
 .article {
@@ -113,7 +112,7 @@ margin-right: 30%;
    .header {
 
 	font-weight: bold;
-	font-size:35px;
+	font-size:24px;
 	line-height: 1.25em;
 	color:#0F6B2E;
 	margin-right:15px;
@@ -126,20 +125,20 @@ li {
 	margin-left: -45px;
 	list-style-type: none;
 	text-decoration: none;
-	line-height: 1em;
-	font-size: 25px;
+	font-size: 35px;
+	text-decoration: underline 1px ;
 }
 
 
 .article {
 
-line-height: 35px;
+line-height: 28px;
 margin-right: 0%;
-font-size: 24px;
+font-size: 18px;
 
 }
 
 footer {
-	font-size:25px;
+	font-size:20px;
 }
 }
