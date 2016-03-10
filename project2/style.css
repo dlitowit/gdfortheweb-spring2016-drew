@@ -141,4 +141,44 @@ font-size: 18px;
 footer {
 	font-size:20px;
 }
+
+@media only screen and (max-width: 400px) {
+   body{
+   	margin:none;
+   }
+
+   .header {
+
+	font-weight: bold;
+	font-size:24px;
+	line-height: 1.25em;
+	color:#0F6B2E;
+	margin-right:15px;
+}
+
+
+li {
+
+	margin-right:0px;
+	margin-left: -45px;
+	list-style-type: none;
+	text-decoration: none;
+	font-size: 35px;
+	text-decoration: underline 1px ;
+}
+
+
+.article {
+
+line-height: 28px;
+margin-right: 0%;
+font-size: 18px;
+
+}
+
+footer {
+	font-size:20px;
+}
+}
+
 }
