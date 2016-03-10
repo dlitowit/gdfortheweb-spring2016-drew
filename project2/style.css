@@ -103,16 +103,12 @@ line-height: 25px;
 margin-right: 30%;
 
 }
+}
 
-@media only screen
-  and (min-device-width: 375px)
-  and (max-device-width: 667px)
-  and (orientation: portrait)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (max-width: 600px)
-{
-
-    {
+@media only screen 
+	and (max-width: 600px)
+ {
+   
    body{
    	margin:none;
    }
@@ -120,7 +116,7 @@ margin-right: 30%;
    .header {
 
 	font-weight: bold;
-	font-size:35px;
+	font-size:24px;
 	line-height: 1.25em;
 	color:#0F6B2E;
 	margin-right:15px;
@@ -150,4 +146,5 @@ footer {
 	font-size:20px;
 }
 
+}
 }
