@@ -1,0 +1,64 @@
+body {
+	font-family: arial;
+}
+
+li {
+
+	margin-left: .5em;
+	list-style-type: none;
+	text-decoration: none;
+	line-height: 1em;
+	font-size: 60px;
+	letter-spacing: 1.5px;
+}
+
+a {
+	transition: all 3s ease;
+	color:blue;
+}
+
+
+.header {
+	position:fixed;
+	top:5px;
+	color:black;
+}
+
+a:hover {
+	transform:rotate(360deg);
+	transition: all 3s ease;
+
+}
+
+a:visited {
+	color:none;
+}
+
+footer {
+	position:fixed;
+	bottom:5px;
+	color:black;
+}
+
+.li1 {
+	transform:rotate(-25deg);
+
+}
+
+.li2 {
+	transform:rotate(12deg);
+}
+
+.li3 {
+	transform:rotate(-12deg);
+}
+
+.li4 {
+	transform:rotate(-35deg);
+}
+
+a {
+	text-decoration: none;
+
+}
+
