@@ -1,0 +1,12 @@
+body {
+	font-family: Windsor MT Std;
+}
+
+.hovered {
+	color:red;
+}
+
+.clicked {
+	background-color:blue;
+	color:white;
+}
