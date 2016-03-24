@@ -1,6 +1,6 @@
 // a variable
 var colors = ["#F1FE00", "orange", "#e5e500", "#00FF38","yellow","#FF4900"];
-var words = ["coming", "RISD", "visiting", "designer", "yay!", "2016", "March", "CIT 103", "10-13", "Keetra", "Dean", "Dixon", "is", "a", "Designer", ",", "Director", "and", "Artist", ".", "Her", "hybrid", "design", "background", "and", "expertise", "in", "graphic" ,"design", "often", "leads", "her", "work", "towards", "speculative", "terrain", "leveraging", "emergent", "technologies", "the", "shortcomings", "of", "ubiquitous", "creative", "tools"];
+var words = ["coming", "RISD", "stunning", "amazing", "visiting", "designer", "yay!", "2016", "March", "CIT 103", "10-13", "Keetra", "Dean", "Dixon", "is", "a", "Designer", ",", "Director", "and", "Artist", ".", "Her", "hybrid", "design", "background", "and", "expertise", "in", "graphic" ,"design", "often", "leads", "her", "work", "towards", "speculative", "terrain", "leveraging", "emergent", "technologies", "the", "shortcomings", "of", "ubiquitous", "creative", "tools"];
 
 // functions
 
