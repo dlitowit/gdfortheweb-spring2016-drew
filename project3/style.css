@@ -24,7 +24,7 @@ h1 {
 
 .keetra {
 	color:black;
-	font-family: brown;
+	font-family: brown, sans-serif;
 	font-weight:bold;
 /*	margin-top:50vh;
 */	font-size: 5vh;
@@ -50,7 +50,7 @@ line-height: 45px;
 	text-align: center;
 	color:white;
 	float:left;
-	font-family: brown;
+	font-family: brown, sans-serif;
 	z-index:2;
 
 }
@@ -66,7 +66,7 @@ footer {
 	line-height: 25px;
 	padding:25px;
 	z-index: 1;
-	font-family: brown;
+	font-family: brown, sans-serif;
 	color:black;
 	background-color:yellow;
 	bottom:0;
