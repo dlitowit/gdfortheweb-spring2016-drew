@@ -1,5 +1,5 @@
 // a variable
-var colors = ["#ffff00", "orange", "#e5e500", "#ffc04c","yellow"];
+var colors = ["#F1FE00", "orange", "#e5e500", "#00FF38","yellow","#FF4900"];
 var words = ["coming", "RISD", "visiting", "designer", "yay!", "2016", "March", "CIT 103", "10-13", "Keetra", "Dean", "Dixon", "is", "a", "Designer", ",", "Director", "and", "Artist", ".", "Her", "hybrid", "design", "background", "and", "expertise", "in", "graphic" ,"design", "often", "leads", "her", "work", "towards", "speculative", "terrain", "leveraging", "emergent", "technologies", "the", "shortcomings", "of", "ubiquitous", "creative", "tools"];
 
 // functions
@@ -8,6 +8,7 @@ $(".keetra").on("click", function() {
 	// $(".name").text("A Lecture and Workshop");
 
 	$(".lecture").toggle();
+	$(".name").toggle();
 });
 
 
