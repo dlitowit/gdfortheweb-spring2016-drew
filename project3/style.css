@@ -10,6 +10,8 @@ html {
 
 body {
 	background-color:#F20077;
+	-webkit-animation: 30s all ease infinite;
+    -webkit-animation-name: background;
 }
 
 .hovered {
@@ -90,3 +92,10 @@ footer {
 	font-size:20px;
 	line-height: 35px;
 }
+
+@-webkit-keyframes background {
+	0% { background-color:#F20077; }
+	50% { background-color: #ff99ff; }
+	100% { background-color: #F20077; }
+
+
