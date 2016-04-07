@@ -94,8 +94,10 @@ footer {
 }
 
 @-webkit-keyframes background {
-	0% { background-color:#F20077; }
-	50% { background-color: #ff99ff; }
-	100% { background-color: #F20077; }
+	0% { background-color:#FF00BF; }
+	25% {background-color: #F4FA58;}
+	50% { background-color: #FF0000; }
+	75% { background-color: #2EFEF7; }
+	100% { background-color: #FF00BF; }
 
 
