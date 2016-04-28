@@ -1,0 +1,357 @@
+html {
+	background-color:black;
+}
+
+div.cover {
+ position:fixed;
+ top: 10px;
+ left: 10px;
+ right: 82%;
+ bottom: 10px;
+ background-color: orange;
+
+}
+
+div.container{
+	position:relative;
+
+}
+
+div.tracks {
+	position: fixed;
+	top: 10px;
+	left:18%;
+	right: 10px;
+	bottom: 10px;
+
+}
+
+svg {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+	
+}
+
+svg#kanye {
+	stroke:white;
+	stroke-width:1.5px;
+	fill:orange;
+	margin:5%;
+}
+
+svg#pablo {
+	margin:5%;
+}
+
+svg:hover {
+	fill:black;
+	stroke:white;
+}
+
+svg:active {
+	fill:black;
+	stroke:orange;
+}
+
+object{
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+
+}
+
+object:hover{
+	fill:black;
+	stroke:white;
+}
+
+object:active{
+	fill:black;
+	stroke:orange;
+}
+
+
+.playback {
+
+	width:100%;
+	margin-left:10%;
+	max-height:15%;
+}
+
+img.listen {
+	float:left;
+	width:80%;
+}
+
+img.version {
+	margin-top:.5em;
+	width:80%;
+	position: relative;
+
+}
+
+img.play {
+	float:left;
+	max-width:30%;
+	margin-left:30%;
+	margin-top:10%;
+	position: relative;
+
+
+}
+
+/*
+.01ultra {
+	width:7.91%;
+	height:100%;
+}
+
+.02fsmh1 {
+	float:left;
+	fill:white;
+	margin-left:1%;
+}
+
+.03fsmh2 {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.04famous {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.05feedback {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.06low {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.07high {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.08freestyle {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.09ilove {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.10waves {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.11fml {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.12friends {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.13wolves {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.14frank {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.15silver {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.1630hours {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.17nomore {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.18facts {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.19fade {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+*/
+
+/*
+HTML
+
+<svg data-percentage="">
+
+*/
+
+
+
+/*body {
+
+
+
+}
+
+
+
+div .track1 {
+	width:1.48%;
+	height: 100vh;
+	float: left;
+	
+	
+}
+
+.track2 {
+	width:7.87%;
+	float: left;
+	
+ 
+
+
+}
+
+.track3 {
+	width:7.67%;
+	float: left;
+	height: 100vh;
+ 
+
+}
+
+.track4 {
+	width:9.68%;
+	float: left;
+	height: 100vh;
+ 
+
+}
+
+.track5 {
+	width:5.83%;
+	float: left;
+	height: 100vh;
+ 
+ 
+}
+
+.track6 {
+	width:11.8%;
+	float: left;
+	height: 100vh;
+ 
+
+}
+
+.track7 {
+	width:4.25%;
+	float: left;
+	height: 100vh;
+ 
+
+}
+
+.track8 {
+	width:12.4%;
+	float: left;
+	height: 100vh;
+ }
+  
+
+.track9 {
+	width:9.25%;
+	float: left;
+	height: 100vh;
+ 
+ 
+}
+
+.track10 {
+	width:5.86%;
+	float: left;
+	height: 100vh;
+ 
+}
+
+
+.track11 {
+	width:10.7%;
+	float: left;
+	height: 100vh;
+ 
+
+}
+
+.track12 {
+	width:3.36%;
+	float: left;
+	height: 100vh;
+ 
+  
+}
+
+.track13 {
+	width:9.81%;
+	float: left;
+	height: 100vh;
+ 
+ 
+}*/
