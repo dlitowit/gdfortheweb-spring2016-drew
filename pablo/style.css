@@ -1,5 +1,6 @@
 html {
 	background-color:black;
+	image-rendering: crisp-edges;
 }
 
 div.cover {
