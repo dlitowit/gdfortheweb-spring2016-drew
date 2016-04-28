@@ -1,15 +1,15 @@
 html {
 	background-color:black;
+	image-rendering: crisp-edges;
 }
 
-div.cover {
- position:fixed;
+div.cover{
+ position: fixed;
  top: 10px;
  left: 10px;
- right: 82%;
  bottom: 10px;
  background-color: orange;
-
+ right: 82%;
 }
 
 div.container{
@@ -20,17 +20,17 @@ div.container{
 div.tracks {
 	position: fixed;
 	top: 10px;
-	left:20%;
-	right: 10px;
+	left:18%;
+	width:81%;
 	bottom: 10px;
 
 }
-
 
 svg {
 	float:left;
 	background-size: 100%;
 	fill:white;
+	margin-left:1%;
 	
 }
 
@@ -55,6 +55,177 @@ svg:active {
 	stroke:orange;
 }
 
+object{
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+
+}
+
+object:hover{
+	fill:black;
+	stroke:white;
+}
+
+object:active{
+	fill:black;
+	stroke:orange;
+}
+
+.inlineSVGs{
+	height: 50%;
+}
+
+.playback {
+	height: 50%;
+	text-align: center;
+	width: 100%;
+	padding-top: 20px;
+	box-sizing: border-box;
+}
+
+img.listen, img.version, img.play{
+	 height: 25%;
+	 width: 70%;
+	 display: block;
+	 padding: 3%;
+	 margin: auto;
+	 box-sizing: border-box;
+}
+
+
+/*
+.01ultra {
+	width:7.91%;
+	height:100%;
+}
+
+.02fsmh1 {
+	float:left;
+	fill:white;
+	margin-left:1%;
+}
+
+.03fsmh2 {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.04famous {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.05feedback {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.06low {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.07high {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.08freestyle {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.09ilove {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.10waves {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.11fml {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.12friends {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.13wolves {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.14frank {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.15silver {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.1630hours {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.17nomore {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.18facts {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+
+.19fade {
+	float:left;
+	background-size: 100%;
+	fill:white;
+	margin-left:1%;
+}
+*/
 
 /*
 HTML
