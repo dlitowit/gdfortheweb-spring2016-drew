@@ -40,7 +40,7 @@ $(function() {
 	//  }
 	$(".ultra").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio1").trigger('stop');
+			$(".audio01").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -57,7 +57,7 @@ $(function() {
 
 	$(".fsmh1").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio2").trigger('stop');
+			$(".audio02").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -73,7 +73,7 @@ $(function() {
 
 	$(".fsmh2").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio3").trigger('stop');
+			$(".audio03").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -88,7 +88,7 @@ $(function() {
 
 	$(".famous").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio4").trigger('stop');
+			$(".audio04").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -104,7 +104,7 @@ $(function() {
 
 	$(".feedback").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio5").trigger('stop');
+			$(".audio05").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -119,7 +119,7 @@ $(function() {
 
 	$(".low").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio6").trigger('stop');
+			$(".audio06").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -134,7 +134,7 @@ $(function() {
 
 	$(".high").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio7").trigger('stop');
+			$(".audio07").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -149,7 +149,7 @@ $(function() {
 
 	$(".free").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio8").trigger('stop');
+			$(".audio08").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -164,7 +164,7 @@ $(function() {
 
 	$(".love").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio9").trigger('stop');
+			$(".audio09").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
