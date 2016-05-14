@@ -1,11 +1,4 @@
 
-/*!
- * toggleAttr() jQuery plugin
- * @link http://github.com/mathiasbynens/toggleAttr-jQuery-Plugin
- * @description Used to toggle selected="selected", disabled="disabled", checked="checked" etc…
- * @author Mathias Bynens <http://mathiasbynens.be/>
- */
-
 $(function() {
 
 	$(".audio01").trigger('load');
