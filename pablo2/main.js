@@ -1,4 +1,11 @@
 
+/*!
+ * toggleAttr() jQuery plugin
+ * @link http://github.com/mathiasbynens/toggleAttr-jQuery-Plugin
+ * @description Used to toggle selected="selected", disabled="disabled", checked="checked" etc…
+ * @author Mathias Bynens <http://mathiasbynens.be/>
+ */
+
 $(function() {
 
 	$(".audio01").trigger('load');
@@ -33,7 +40,7 @@ $(function() {
 	//  }
 	$(".ultra").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio01").trigger('stop');
+			$(".audio1").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -50,7 +57,7 @@ $(function() {
 
 	$(".fsmh1").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio02").trigger('stop');
+			$(".audio2").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -66,7 +73,7 @@ $(function() {
 
 	$(".fsmh2").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio03").trigger('stop');
+			$(".audio3").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -81,7 +88,7 @@ $(function() {
 
 	$(".famous").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio04").trigger('stop');
+			$(".audio4").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -97,7 +104,7 @@ $(function() {
 
 	$(".feedback").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio05").trigger('stop');
+			$(".audio5").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -112,7 +119,7 @@ $(function() {
 
 	$(".low").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio06").trigger('stop');
+			$(".audio6").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -127,7 +134,7 @@ $(function() {
 
 	$(".high").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio07").trigger('stop');
+			$(".audio7").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -142,7 +149,7 @@ $(function() {
 
 	$(".free").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio08").trigger('stop');
+			$(".audio8").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
@@ -157,7 +164,7 @@ $(function() {
 
 	$(".love").click(function() {
 		if($(this).hasClass("is-playing")) {
-			$(".audio09").trigger('stop');
+			$(".audio9").trigger('stop');
 			$(this).removeClass("is-playing");
 			$("audio").each(function() {
 				$(this).trigger("pause");
