@@ -9,17 +9,17 @@ $(function() {
 	$(".audio06").trigger('load');
 	$(".audio07").trigger('load');
 	$(".audio08").trigger('load');
-	// $(".audio09").trigger('load');
-	// $(".audio10").trigger('load');
-	// $(".audio11").trigger('load');
-	// $(".audio12").trigger('load');
-	// $(".audio13").trigger('load');
-	// $(".audio14").trigger('load');
-	// $(".audio15").trigger('load');
-	// $(".audio16").trigger('load');
-	// $(".audio17").trigger('load');
-	// $(".audio18").trigger('load');
-	// $(".audio19").trigger('load');
+	$(".audio09").trigger('load');
+	$(".audio10").trigger('load');
+	$(".audio11").trigger('load');
+	$(".audio12").trigger('load');
+	$(".audio13").trigger('load');
+	$(".audio14").trigger('load');
+	$(".audio15").trigger('load');
+	$(".audio16").trigger('load');
+	$(".audio17").trigger('load');
+	$(".audio18").trigger('load');
+	$(".audio19").trigger('load');
 	// ... //
 
 	// function play_audio(task) {
